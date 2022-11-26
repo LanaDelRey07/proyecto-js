@@ -3,6 +3,7 @@ const fn = () => {
     let b = miString + " muy feliz"
     console.log(b)
     console.log('hola mundo');
+    console.log('hola a todos');
     
 }
 
